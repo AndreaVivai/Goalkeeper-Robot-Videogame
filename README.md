@@ -1,8 +1,7 @@
 ## Goalkeeper Robot Videogame
 
 ## Click to see the YouTube video
-[![YouTube](./video_presentation.png)](https://www.youtube.com/watch?v=CQSC1y-ab6w)
-
+[![Guarda il video su YouTube](https://youtu.be/_nw5O4I1UUU/0.jpg)](https://youtu.be/_nw5O4I1UUU)
 
 
 ## Project description
