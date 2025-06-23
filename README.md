@@ -5,7 +5,7 @@
 
 
 
-# Project description
+## Project description
 
 A real-time, multithreaded 2D simulation game written in C, developed for a university course on Real-Time Systems.
 The player controls a robotic goalkeeper trying to block a ball launched from random positions.
