@@ -1,7 +1,7 @@
 # Goalkeeper Robot Videogame
 
 ## Click to see the YouTube video
-[![Watch the video](https://img.youtube.com/vi/_nw5O4I1UUU/0.jpg)](https://youtu.be/_nw5O4I1UUU)
+[![Watch the video](https://img.youtube.com/vi/_nw5O4I1UUU/maxresdefault.jpg)](https://youtu.be/_nw5O4I1UUU)
 
 ## Project description
 A real-time, multithreaded 2D simulation game written in C, developed for a university course on Real-Time Systems.
